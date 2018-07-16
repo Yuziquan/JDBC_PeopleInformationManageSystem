@@ -1,0 +1,1902 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dead78ef-d5e2-44c9-87ec-db4c17822a8f" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JDBC_Test" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="JDBC_Connection.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/wuchangi/Model_Layer/JDBC_Connection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="11" column="28" lean-forward="false" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+              <folding>
+                <element signature="initializer##0;class#JDBC_Connection#0" expanded="true" />
+                <element signature="e#1126#1127#0" expanded="true" />
+                <element signature="e#1159#1160#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PeopleInformation.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/wuchangi/Model_Layer/PeopleInformation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+              <folding>
+                <element signature="e#790#791#0" expanded="true" />
+                <element signature="e#815#816#0" expanded="true" />
+                <element signature="e#856#857#0" expanded="true" />
+                <element signature="e#884#885#0" expanded="true" />
+                <element signature="e#923#924#0" expanded="true" />
+                <element signature="e#954#955#0" expanded="true" />
+                <element signature="e#1006#1007#0" expanded="true" />
+                <element signature="e#1046#1047#0" expanded="true" />
+                <element signature="e#1081#1082#0" expanded="true" />
+                <element signature="e#1107#1108#0" expanded="true" />
+                <element signature="e#1150#1151#0" expanded="true" />
+                <element signature="e#1180#1181#0" expanded="true" />
+                <element signature="e#1215#1216#0" expanded="true" />
+                <element signature="e#1241#1242#0" expanded="true" />
+                <element signature="e#1284#1285#0" expanded="true" />
+                <element signature="e#1314#1315#0" expanded="true" />
+                <element signature="e#1351#1352#0" expanded="true" />
+                <element signature="e#1382#1383#0" expanded="true" />
+                <element signature="e#1432#1433#0" expanded="true" />
+                <element signature="e#1472#1473#0" expanded="true" />
+                <element signature="e#1508#1509#0" expanded="true" />
+                <element signature="e#1536#1537#0" expanded="true" />
+                <element signature="e#1582#1583#0" expanded="true" />
+                <element signature="e#1616#1617#0" expanded="true" />
+                <element signature="e#1653#1654#0" expanded="true" />
+                <element signature="e#1682#1683#0" expanded="true" />
+                <element signature="e#1730#1731#0" expanded="true" />
+                <element signature="e#1766#1767#0" expanded="true" />
+                <element signature="e#1807#1808#0" expanded="true" />
+                <element signature="e#1840#1841#0" expanded="true" />
+                <element signature="e#1896#1897#0" expanded="true" />
+                <element signature="e#1940#1941#0" expanded="true" />
+                <element signature="e#1981#1982#0" expanded="true" />
+                <element signature="e#2014#2015#0" expanded="true" />
+                <element signature="e#2070#2071#0" expanded="true" />
+                <element signature="e#2114#2115#0" expanded="true" />
+                <element signature="e#2153#2154#0" expanded="true" />
+                <element signature="e#2186#2187#0" expanded="true" />
+                <element signature="e#2240#2241#0" expanded="true" />
+                <element signature="e#2284#2285#0" expanded="true" />
+                <element signature="e#2323#2324#0" expanded="true" />
+                <element signature="e#2356#2357#0" expanded="true" />
+                <element signature="e#2410#2411#0" expanded="true" />
+                <element signature="e#2454#2455#0" expanded="true" />
+                <element signature="e#2491#2492#0" expanded="true" />
+                <element signature="e#2519#2520#0" expanded="true" />
+                <element signature="e#2566#2567#0" expanded="true" />
+                <element signature="e#2600#2601#0" expanded="true" />
+                <element signature="method#toString#0;class#PeopleInformation#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="View.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/wuchangi/View_Layer/View.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#main#0;class#View#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DateFormat.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/text/DateFormat.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1110">
+              <caret line="365" column="0" lean-forward="false" selection-start-line="365" selection-start-column="0" selection-end-line="365" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DDIV.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/com/sun/org/apache/bcel/internal/generic/DDIV.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="870">
+              <caret line="67" column="13" lean-forward="false" selection-start-line="67" selection-start-column="13" selection-end-line="67" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DAO.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/wuchangi/Model_Layer/DAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#addPeopleInformation#0;class#DAO#0" expanded="true" />
+                <element signature="method#updatePeopleInformation#0;class#DAO#0" expanded="true" />
+                <element signature="method#deletePeopleInformation#0;class#DAO#0" expanded="true" />
+                <element signature="method#queryPeopleInformation#0;class#DAO#0" expanded="true" />
+                <element signature="method#queryPeopleInformation#1;class#DAO#0" expanded="true" />
+                <element signature="method#getPeopleInformation#0;class#DAO#0" expanded="true" />
+                <marker date="1526203439113" expanded="true" signature="517:760" ph="insert into people_information... " />
+                <marker date="1526203439113" expanded="true" signature="1959:2156" ph="update mydatabase.people_information... " />
+                <marker date="1526203439113" expanded="true" signature="3293:3366" ph="delete from mydatabase.people_information... " />
+                <marker date="1526203439113" expanded="true" signature="3972:4031" ph="select userN... people_information" />
+                <marker date="1526203439113" expanded="true" signature="7094:7168" ph="select * fro... people_information" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Control.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/wuchangi/Control_Layer/Control.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#get#0;class#Control#0" expanded="true" />
+                <element signature="method#add#0;class#Control#0" expanded="true" />
+                <element signature="method#update#0;class#Control#0" expanded="true" />
+                <element signature="method#del#0;class#Control#0" expanded="true" />
+                <element signature="method#query#0;class#Control#0" expanded="true" />
+                <element signature="method#query#1;class#Control#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClientPreparedStatement.class" pinned="false" current-in-tab="false">
+        <entry file="jar://E:/Apache-Tomcat/tomcat-8.5.29/lib/mysql-connector-java-8.0.11.jar!/com/mysql/cj/jdbc/ClientPreparedStatement.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4170">
+              <caret line="281" column="0" lean-forward="false" selection-start-line="281" selection-start-column="0" selection-end-line="281" selection-end-column="0" />
+              <folding>
+                <marker date="1521932446000" expanded="false" signature="3:117" ph="/.../" />
+                <marker date="1521932446000" expanded="false" signature="1018:1041" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="1274:1297" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="1330:1353" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="1487:1510" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="1663:1686" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="1879:1902" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="1964:1987" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="2028:2051" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="2109:2132" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="2210:2233" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="2300:2323" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="2421:2444" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="2504:2527" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="2592:2615" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="2697:2720" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="2780:2803" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="2878:2901" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="3008:3031" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="3201:3224" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="3331:3354" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="3446:3469" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="3560:3583" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="3900:3923" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="3999:4022" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="4084:4107" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="4242:4265" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="4400:4423" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="4483:4506" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="4677:4700" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="4789:4812" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="4904:4927" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="5048:5071" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="5154:5177" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="5246:5269" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="5361:5384" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="5435:5458" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="5532:5555" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="5628:5651" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="5760:5783" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="5830:5853" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="5916:5939" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="6007:6030" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="6131:6154" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="6200:6223" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="6327:6350" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="6443:6466" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="6547:6570" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="6675:6698" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="6815:6838" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="6956:6979" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="7084:7107" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="7213:7236" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="7354:7377" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="7496:7519" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="7598:7621" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="7729:7752" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="7873:7896" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="7985:8008" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="8091:8114" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="8200:8223" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="8363:8386" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="8495:8518" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="8635:8658" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="8767:8790" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="8911:8934" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="9056:9079" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="9177:9200" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="9311:9334" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="9413:9436" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="9528:9551" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="9667:9690" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="9777:9800" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="9885:9908" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="9989:10012" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="10095:10118" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="10223:10246" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="10355:10378" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="10501:10524" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="10623:10646" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="10758:10781" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="10879:10902" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="11000:11023" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="11111:11134" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="11249:11272" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="11381:11404" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="11512:11535" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="11662:11685" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="11825:11848" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="11986:12009" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="12157:12180" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="12257:12280" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="12374:12397" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="12482:12505" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="12609:12632" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="12729:12752" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="12844:12867" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="12983:13006" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="13108:13131" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="13257:13280" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="13286:13316" ph="/**...*/" />
+                <marker date="1521932446000" expanded="false" signature="13460:13483" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="13575:13598" ph="{}" />
+                <marker date="1521932446000" expanded="true" signature="13691:16857" ph="{...}" />
+                <marker date="1521932446000" expanded="false" signature="13908:13931" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="14021:14044" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="14145:14168" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="14269:14292" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="14394:14417" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="14505:14528" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="14613:14636" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="14715:14738" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="14820:14843" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="14943:14966" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="15054:15077" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="15165:15188" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="15271:15294" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="15375:15398" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="15475:15498" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="15599:15622" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="15701:15724" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="15825:15848" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="15938:15961" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="16054:16077" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="16163:16186" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="16267:16290" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="16383:16406" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="16494:16517" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="16615:16638" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="16724:16747" ph="{}" />
+                <marker date="1521932446000" expanded="false" signature="16828:16851" ph="{}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="console.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/08171c78-d3b3-457b-ad4d-419587b769c8/console.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>dao</find>
+      <find>previousBranch</find>
+    </findStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="H:/CODE/idea_web/SpringMvcGradle" value="2950554455927" />
+        <entry key="H:/CODE/idea_web/ssm-easy-template-master" value="2940207720000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/wuchangi/model/Goddess.java" />
+        <option value="$PROJECT_DIR$/src/com/wuchangi/JDBC_Testing.java" />
+        <option value="$PROJECT_DIR$/src/com/wuchangi/control_level/ControlTesting.java" />
+        <option value="$PROJECT_DIR$/src/com/wuchangi/JDBCTesting.java" />
+        <option value="$PROJECT_DIR$/src/com/wuchangi/crud/CRUDTesing.java" />
+        <option value="$PROJECT_DIR$/src/com/wuchangi/model/PeopleInformation.java" />
+        <option value="$PROJECT_DIR$/src/com/wuchangi/crud/CRUD.java" />
+        <option value="$PROJECT_DIR$/src/com/wuchangi/just_test/Test.java" />
+        <option value="$PROJECT_DIR$/src/View_layer/View.java" />
+        <option value="$PROJECT_DIR$/src/com/wuchangi/DAO_layer/CRUD.java" />
+        <option value="$PROJECT_DIR$/src/com/wuchangi/DAO_layer/dao.java" />
+        <option value="$PROJECT_DIR$/src/com/wuchangi/JDBC.java" />
+        <option value="$PROJECT_DIR$/src/com/wuchangi/MODEL_layer/PeopleInformation.java" />
+        <option value="$PROJECT_DIR$/src/com/wuchangi/View_layer/View.java" />
+        <option value="$PROJECT_DIR$/src/com/wuchangi/DAO_layer/Dao.java" />
+        <option value="$PROJECT_DIR$/src/com/wuchangi/A.java" />
+        <option value="$PROJECT_DIR$/src/com/wuchangi/MODEL_layer/Dao.java" />
+        <option value="$PROJECT_DIR$/src/com/wuchangi/MODEL_layer/DAO.java" />
+        <option value="$PROJECT_DIR$/src/com/wuchangi/MODEL_layer/JDBC.java" />
+        <option value="$PROJECT_DIR$/src/com/wuchangi/control_layer/Control.java" />
+        <option value="$PROJECT_DIR$/src/com/wuchangi/Control_layer/Control.java" />
+        <option value="$PROJECT_DIR$/src/com/wuchangi/Model_layer/JDBC.java" />
+        <option value="$PROJECT_DIR$/src/com/wuchangi/Model_layer/JDBC_Connection.java" />
+        <option value="$PROJECT_DIR$/src/com/wuchangi/Model_Layer/JDBC_Connection.java" />
+        <option value="$PROJECT_DIR$/src/com/wuchangi/Model_Layer/PeopleInformation.java" />
+        <option value="$PROJECT_DIR$/src/com/wuchangi/Control_Layer/Control.java" />
+        <option value="$PROJECT_DIR$/src/com/wuchangi/Model_Layer/DAO.java" />
+        <option value="$PROJECT_DIR$/src/com/wuchangi/View_Layer/View.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/Maven/apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="E:\Maven\apache-maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="634" />
+    <option name="width" value="736" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JDBC_PeopleInformationManageSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JDBC_PeopleInformationManageSystem" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JDBC_PeopleInformationManageSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JDBC_PeopleInformationManageSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JDBC_PeopleInformationManageSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JDBC_PeopleInformationManageSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="wuchangi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JDBC_PeopleInformationManageSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JDBC_PeopleInformationManageSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="wuchangi" type="462c0819:PsiDirectoryNode" />
+              <item name="Control_Layer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JDBC_PeopleInformationManageSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JDBC_PeopleInformationManageSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="wuchangi" type="462c0819:PsiDirectoryNode" />
+              <item name="Model_Layer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JDBC_PeopleInformationManageSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JDBC_PeopleInformationManageSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="wuchangi" type="462c0819:PsiDirectoryNode" />
+              <item name="View_Layer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JDBC_PeopleInformationManageSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.View">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="Control" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.wuchangi.Control_Layer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.wuchangi.Control_Layer.Control" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JDBC_Test" />
+      <envs />
+    </configuration>
+    <configuration name="JDBC_Connection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.wuchangi.Model_Layer.DAO" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.wuchangi.Model_Layer.JDBC_Connection" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JDBC_Test" />
+      <envs />
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.wuchangi.just_test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.wuchangi.just_test.Test" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JDBC_Test" />
+      <envs />
+    </configuration>
+    <configuration name="View" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.wuchangi.View_Layer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.wuchangi.View_Layer.View" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JDBC_Test" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Application.Control" />
+      <item index="1" class="java.lang.String" itemvalue="Application.JDBC_Connection" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Test" />
+      <item index="3" class="java.lang.String" itemvalue="Application.View" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Application.View" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Test" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Control" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dead78ef-d5e2-44c9-87ec-db4c17822a8f" name="Default" comment="" />
+      <created>1525350707884</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1525350707884</updated>
+      <workItem from="1525350710888" duration="3930000" />
+      <workItem from="1525357899262" duration="996000" />
+      <workItem from="1525361735834" duration="149000" />
+      <workItem from="1525361888609" duration="1876000" />
+      <workItem from="1525405303117" duration="780000" />
+      <workItem from="1525409267419" duration="1981000" />
+      <workItem from="1525436904460" duration="5691000" />
+      <workItem from="1525443719229" duration="1103000" />
+      <workItem from="1525480419159" duration="3788000" />
+      <workItem from="1525492128304" duration="219000" />
+      <workItem from="1525499138627" duration="3167000" />
+      <workItem from="1525523675741" duration="488000" />
+      <workItem from="1525524205705" duration="4422000" />
+      <workItem from="1525565260707" duration="130000" />
+      <workItem from="1525576667930" duration="1472000" />
+      <workItem from="1525590457711" duration="3092000" />
+      <workItem from="1525706624125" duration="2428000" />
+      <workItem from="1525792609003" duration="3611000" />
+      <workItem from="1525873642690" duration="1258000" />
+      <workItem from="1525875794445" duration="5610000" />
+      <workItem from="1525920509075" duration="57000" />
+      <workItem from="1525920687938" duration="3601000" />
+      <workItem from="1525938610456" duration="77000" />
+      <workItem from="1525951509663" duration="19000" />
+      <workItem from="1526121841592" duration="1682000" />
+      <workItem from="1526136473570" duration="1515000" />
+      <workItem from="1526173230318" duration="612000" />
+      <workItem from="1526176414537" duration="6008000" />
+      <workItem from="1526193739101" duration="12223000" />
+      <workItem from="1526208136610" duration="296000" />
+      <workItem from="1526208528977" duration="62000" />
+      <workItem from="1526212991601" duration="201000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="72544000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5017123" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2685325" sideWeight="0.49209931" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15279879" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18078668" sideWeight="0.5090498" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2089041" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6164383" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/08171c78-d3b3-457b-ad4d-419587b769c8/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wuchangi/Control_Layer/Control.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="29" lean-forward="true" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#get#0;class#Control#0" expanded="true" />
+            <element signature="method#add#0;class#Control#0" expanded="true" />
+            <element signature="method#update#0;class#Control#0" expanded="true" />
+            <element signature="method#del#0;class#Control#0" expanded="true" />
+            <element signature="method#query#0;class#Control#0" expanded="true" />
+            <element signature="method#query#1;class#Control#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wuchangi/Model_Layer/JDBC_Connection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="40" column="44" lean-forward="false" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="44" />
+          <folding>
+            <element signature="initializer##0;class#JDBC_Connection#0" expanded="true" />
+            <element signature="e#1126#1127#0" expanded="true" />
+            <element signature="e#1159#1160#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wuchangi/Model_Layer/PeopleInformation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="16" lean-forward="false" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+          <folding>
+            <element signature="e#790#791#0" expanded="true" />
+            <element signature="e#815#816#0" expanded="true" />
+            <element signature="e#856#857#0" expanded="true" />
+            <element signature="e#884#885#0" expanded="true" />
+            <element signature="e#923#924#0" expanded="true" />
+            <element signature="e#954#955#0" expanded="true" />
+            <element signature="e#1006#1007#0" expanded="true" />
+            <element signature="e#1046#1047#0" expanded="true" />
+            <element signature="e#1081#1082#0" expanded="true" />
+            <element signature="e#1107#1108#0" expanded="true" />
+            <element signature="e#1150#1151#0" expanded="true" />
+            <element signature="e#1180#1181#0" expanded="true" />
+            <element signature="e#1215#1216#0" expanded="true" />
+            <element signature="e#1241#1242#0" expanded="true" />
+            <element signature="e#1284#1285#0" expanded="true" />
+            <element signature="e#1314#1315#0" expanded="true" />
+            <element signature="e#1351#1352#0" expanded="true" />
+            <element signature="e#1382#1383#0" expanded="true" />
+            <element signature="e#1432#1433#0" expanded="true" />
+            <element signature="e#1472#1473#0" expanded="true" />
+            <element signature="e#1508#1509#0" expanded="true" />
+            <element signature="e#1536#1537#0" expanded="true" />
+            <element signature="e#1582#1583#0" expanded="true" />
+            <element signature="e#1616#1617#0" expanded="true" />
+            <element signature="e#1653#1654#0" expanded="true" />
+            <element signature="e#1682#1683#0" expanded="true" />
+            <element signature="e#1730#1731#0" expanded="true" />
+            <element signature="e#1766#1767#0" expanded="true" />
+            <element signature="e#1807#1808#0" expanded="true" />
+            <element signature="e#1840#1841#0" expanded="true" />
+            <element signature="e#1896#1897#0" expanded="true" />
+            <element signature="e#1940#1941#0" expanded="true" />
+            <element signature="e#1981#1982#0" expanded="true" />
+            <element signature="e#2014#2015#0" expanded="true" />
+            <element signature="e#2070#2071#0" expanded="true" />
+            <element signature="e#2114#2115#0" expanded="true" />
+            <element signature="e#2153#2154#0" expanded="true" />
+            <element signature="e#2186#2187#0" expanded="true" />
+            <element signature="e#2240#2241#0" expanded="true" />
+            <element signature="e#2284#2285#0" expanded="true" />
+            <element signature="e#2323#2324#0" expanded="true" />
+            <element signature="e#2356#2357#0" expanded="true" />
+            <element signature="e#2410#2411#0" expanded="true" />
+            <element signature="e#2454#2455#0" expanded="true" />
+            <element signature="e#2491#2492#0" expanded="true" />
+            <element signature="e#2519#2520#0" expanded="true" />
+            <element signature="e#2566#2567#0" expanded="true" />
+            <element signature="e#2600#2601#0" expanded="true" />
+            <element signature="method#toString#0;class#PeopleInformation#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wuchangi/Model_Layer/DAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="15" column="113" lean-forward="false" selection-start-line="15" selection-start-column="113" selection-end-line="15" selection-end-column="113" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#addPeopleInformation#0;class#DAO#0" expanded="true" />
+            <element signature="method#updatePeopleInformation#0;class#DAO#0" expanded="true" />
+            <element signature="method#deletePeopleInformation#0;class#DAO#0" expanded="true" />
+            <element signature="method#queryPeopleInformation#0;class#DAO#0" expanded="true" />
+            <element signature="method#queryPeopleInformation#1;class#DAO#0" expanded="true" />
+            <element signature="method#getPeopleInformation#0;class#DAO#0" expanded="true" />
+            <marker date="1526203439113" expanded="true" signature="517:760" ph="insert into people_information... " />
+            <marker date="1526203439113" expanded="true" signature="1959:2156" ph="update mydatabase.people_information... " />
+            <marker date="1526203439113" expanded="true" signature="3293:3366" ph="delete from mydatabase.people_information... " />
+            <marker date="1526203439113" expanded="true" signature="3972:4031" ph="select userN... people_information" />
+            <marker date="1526203439113" expanded="true" signature="7094:7168" ph="select * fro... people_information" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Apache-Tomcat/tomcat-8.5.29/lib/mysql-connector-java-8.0.11.jar!/com/mysql/cj/jdbc/ClientPreparedStatement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4170">
+          <caret line="281" column="0" lean-forward="false" selection-start-line="281" selection-start-column="0" selection-end-line="281" selection-end-column="0" />
+          <folding>
+            <marker date="1521932446000" expanded="false" signature="3:117" ph="/.../" />
+            <marker date="1521932446000" expanded="false" signature="1018:1041" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="1274:1297" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="1330:1353" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="1487:1510" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="1663:1686" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="1879:1902" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="1964:1987" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="2028:2051" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="2109:2132" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="2210:2233" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="2300:2323" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="2421:2444" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="2504:2527" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="2592:2615" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="2697:2720" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="2780:2803" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="2878:2901" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="3008:3031" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="3201:3224" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="3331:3354" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="3446:3469" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="3560:3583" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="3900:3923" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="3999:4022" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="4084:4107" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="4242:4265" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="4400:4423" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="4483:4506" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="4677:4700" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="4789:4812" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="4904:4927" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="5048:5071" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="5154:5177" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="5246:5269" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="5361:5384" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="5435:5458" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="5532:5555" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="5628:5651" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="5760:5783" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="5830:5853" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="5916:5939" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="6007:6030" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="6131:6154" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="6200:6223" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="6327:6350" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="6443:6466" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="6547:6570" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="6675:6698" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="6815:6838" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="6956:6979" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="7084:7107" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="7213:7236" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="7354:7377" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="7496:7519" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="7598:7621" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="7729:7752" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="7873:7896" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="7985:8008" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="8091:8114" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="8200:8223" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="8363:8386" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="8495:8518" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="8635:8658" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="8767:8790" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="8911:8934" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="9056:9079" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="9177:9200" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="9311:9334" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="9413:9436" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="9528:9551" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="9667:9690" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="9777:9800" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="9885:9908" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="9989:10012" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="10095:10118" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="10223:10246" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="10355:10378" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="10501:10524" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="10623:10646" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="10758:10781" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="10879:10902" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="11000:11023" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="11111:11134" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="11249:11272" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="11381:11404" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="11512:11535" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="11662:11685" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="11825:11848" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="11986:12009" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="12157:12180" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="12257:12280" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="12374:12397" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="12482:12505" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="12609:12632" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="12729:12752" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="12844:12867" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="12983:13006" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="13108:13131" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="13257:13280" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="13286:13316" ph="/**...*/" />
+            <marker date="1521932446000" expanded="false" signature="13460:13483" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="13575:13598" ph="{}" />
+            <marker date="1521932446000" expanded="true" signature="13691:16857" ph="{...}" />
+            <marker date="1521932446000" expanded="false" signature="13908:13931" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="14021:14044" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="14145:14168" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="14269:14292" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="14394:14417" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="14505:14528" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="14613:14636" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="14715:14738" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="14820:14843" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="14943:14966" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="15054:15077" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="15165:15188" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="15271:15294" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="15375:15398" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="15475:15498" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="15599:15622" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="15701:15724" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="15825:15848" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="15938:15961" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="16054:16077" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="16163:16186" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="16267:16290" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="16383:16406" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="16494:16517" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="16615:16638" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="16724:16747" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="16828:16851" ph="{}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/08171c78-d3b3-457b-ad4d-419587b769c8/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wuchangi/Control_Layer/Control.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="15" column="54" lean-forward="true" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#get#0;class#Control#0" expanded="true" />
+            <element signature="method#add#0;class#Control#0" expanded="true" />
+            <element signature="method#update#0;class#Control#0" expanded="true" />
+            <element signature="method#del#0;class#Control#0" expanded="true" />
+            <element signature="method#query#0;class#Control#0" expanded="true" />
+            <element signature="method#query#1;class#Control#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wuchangi/Model_Layer/JDBC_Connection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="40" column="44" lean-forward="false" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="44" />
+          <folding>
+            <element signature="initializer##0;class#JDBC_Connection#0" expanded="true" />
+            <element signature="e#1126#1127#0" expanded="true" />
+            <element signature="e#1159#1160#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wuchangi/Model_Layer/PeopleInformation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="16" lean-forward="false" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+          <folding>
+            <element signature="e#790#791#0" expanded="true" />
+            <element signature="e#815#816#0" expanded="true" />
+            <element signature="e#856#857#0" expanded="true" />
+            <element signature="e#884#885#0" expanded="true" />
+            <element signature="e#923#924#0" expanded="true" />
+            <element signature="e#954#955#0" expanded="true" />
+            <element signature="e#1006#1007#0" expanded="true" />
+            <element signature="e#1046#1047#0" expanded="true" />
+            <element signature="e#1081#1082#0" expanded="true" />
+            <element signature="e#1107#1108#0" expanded="true" />
+            <element signature="e#1150#1151#0" expanded="true" />
+            <element signature="e#1180#1181#0" expanded="true" />
+            <element signature="e#1215#1216#0" expanded="true" />
+            <element signature="e#1241#1242#0" expanded="true" />
+            <element signature="e#1284#1285#0" expanded="true" />
+            <element signature="e#1314#1315#0" expanded="true" />
+            <element signature="e#1351#1352#0" expanded="true" />
+            <element signature="e#1382#1383#0" expanded="true" />
+            <element signature="e#1432#1433#0" expanded="true" />
+            <element signature="e#1472#1473#0" expanded="true" />
+            <element signature="e#1508#1509#0" expanded="true" />
+            <element signature="e#1536#1537#0" expanded="true" />
+            <element signature="e#1582#1583#0" expanded="true" />
+            <element signature="e#1616#1617#0" expanded="true" />
+            <element signature="e#1653#1654#0" expanded="true" />
+            <element signature="e#1682#1683#0" expanded="true" />
+            <element signature="e#1730#1731#0" expanded="true" />
+            <element signature="e#1766#1767#0" expanded="true" />
+            <element signature="e#1807#1808#0" expanded="true" />
+            <element signature="e#1840#1841#0" expanded="true" />
+            <element signature="e#1896#1897#0" expanded="true" />
+            <element signature="e#1940#1941#0" expanded="true" />
+            <element signature="e#1981#1982#0" expanded="true" />
+            <element signature="e#2014#2015#0" expanded="true" />
+            <element signature="e#2070#2071#0" expanded="true" />
+            <element signature="e#2114#2115#0" expanded="true" />
+            <element signature="e#2153#2154#0" expanded="true" />
+            <element signature="e#2186#2187#0" expanded="true" />
+            <element signature="e#2240#2241#0" expanded="true" />
+            <element signature="e#2284#2285#0" expanded="true" />
+            <element signature="e#2323#2324#0" expanded="true" />
+            <element signature="e#2356#2357#0" expanded="true" />
+            <element signature="e#2410#2411#0" expanded="true" />
+            <element signature="e#2454#2455#0" expanded="true" />
+            <element signature="e#2491#2492#0" expanded="true" />
+            <element signature="e#2519#2520#0" expanded="true" />
+            <element signature="e#2566#2567#0" expanded="true" />
+            <element signature="e#2600#2601#0" expanded="true" />
+            <element signature="method#toString#0;class#PeopleInformation#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wuchangi/Control_Layer/Control.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#get#0;class#Control#0" expanded="true" />
+            <element signature="method#add#0;class#Control#0" expanded="true" />
+            <element signature="method#update#0;class#Control#0" expanded="true" />
+            <element signature="method#del#0;class#Control#0" expanded="true" />
+            <element signature="method#query#0;class#Control#0" expanded="true" />
+            <element signature="method#query#1;class#Control#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/08171c78-d3b3-457b-ad4d-419587b769c8/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wuchangi/Model_Layer/DAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#addPeopleInformation#0;class#DAO#0" expanded="true" />
+            <element signature="method#updatePeopleInformation#0;class#DAO#0" expanded="true" />
+            <element signature="method#deletePeopleInformation#0;class#DAO#0" expanded="true" />
+            <element signature="method#queryPeopleInformation#0;class#DAO#0" expanded="true" />
+            <element signature="method#queryPeopleInformation#1;class#DAO#0" expanded="true" />
+            <element signature="method#getPeopleInformation#0;class#DAO#0" expanded="true" />
+            <marker date="1526203439113" expanded="true" signature="517:760" ph="insert into people_information... " />
+            <marker date="1526203439113" expanded="true" signature="1959:2156" ph="update mydatabase.people_information... " />
+            <marker date="1526203439113" expanded="true" signature="3293:3366" ph="delete from mydatabase.people_information... " />
+            <marker date="1526203439113" expanded="true" signature="3972:4031" ph="select userN... people_information" />
+            <marker date="1526203439113" expanded="true" signature="7094:7168" ph="select * fro... people_information" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wuchangi/Model_Layer/JDBC_Connection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="initializer##0;class#JDBC_Connection#0" expanded="true" />
+            <element signature="e#1126#1127#0" expanded="true" />
+            <element signature="e#1159#1160#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wuchangi/Model_Layer/PeopleInformation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="24" />
+          <folding>
+            <element signature="e#790#791#0" expanded="true" />
+            <element signature="e#815#816#0" expanded="true" />
+            <element signature="e#856#857#0" expanded="true" />
+            <element signature="e#884#885#0" expanded="true" />
+            <element signature="e#923#924#0" expanded="true" />
+            <element signature="e#954#955#0" expanded="true" />
+            <element signature="e#1006#1007#0" expanded="true" />
+            <element signature="e#1046#1047#0" expanded="true" />
+            <element signature="e#1081#1082#0" expanded="true" />
+            <element signature="e#1107#1108#0" expanded="true" />
+            <element signature="e#1150#1151#0" expanded="true" />
+            <element signature="e#1180#1181#0" expanded="true" />
+            <element signature="e#1215#1216#0" expanded="true" />
+            <element signature="e#1241#1242#0" expanded="true" />
+            <element signature="e#1284#1285#0" expanded="true" />
+            <element signature="e#1314#1315#0" expanded="true" />
+            <element signature="e#1351#1352#0" expanded="true" />
+            <element signature="e#1382#1383#0" expanded="true" />
+            <element signature="e#1432#1433#0" expanded="true" />
+            <element signature="e#1472#1473#0" expanded="true" />
+            <element signature="e#1508#1509#0" expanded="true" />
+            <element signature="e#1536#1537#0" expanded="true" />
+            <element signature="e#1582#1583#0" expanded="true" />
+            <element signature="e#1616#1617#0" expanded="true" />
+            <element signature="e#1653#1654#0" expanded="true" />
+            <element signature="e#1682#1683#0" expanded="true" />
+            <element signature="e#1730#1731#0" expanded="true" />
+            <element signature="e#1766#1767#0" expanded="true" />
+            <element signature="e#1807#1808#0" expanded="true" />
+            <element signature="e#1840#1841#0" expanded="true" />
+            <element signature="e#1896#1897#0" expanded="true" />
+            <element signature="e#1940#1941#0" expanded="true" />
+            <element signature="e#1981#1982#0" expanded="true" />
+            <element signature="e#2014#2015#0" expanded="true" />
+            <element signature="e#2070#2071#0" expanded="true" />
+            <element signature="e#2114#2115#0" expanded="true" />
+            <element signature="e#2153#2154#0" expanded="true" />
+            <element signature="e#2186#2187#0" expanded="true" />
+            <element signature="e#2240#2241#0" expanded="true" />
+            <element signature="e#2284#2285#0" expanded="true" />
+            <element signature="e#2323#2324#0" expanded="true" />
+            <element signature="e#2356#2357#0" expanded="true" />
+            <element signature="e#2410#2411#0" expanded="true" />
+            <element signature="e#2454#2455#0" expanded="true" />
+            <element signature="e#2491#2492#0" expanded="true" />
+            <element signature="e#2519#2520#0" expanded="true" />
+            <element signature="e#2566#2567#0" expanded="true" />
+            <element signature="e#2600#2601#0" expanded="true" />
+            <element signature="method#toString#0;class#PeopleInformation#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wuchangi/Model_Layer/DAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="56" column="14" lean-forward="false" selection-start-line="56" selection-start-column="14" selection-end-line="56" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#addPeopleInformation#0;class#DAO#0" expanded="true" />
+            <element signature="method#updatePeopleInformation#0;class#DAO#0" expanded="true" />
+            <element signature="method#deletePeopleInformation#0;class#DAO#0" expanded="true" />
+            <element signature="method#queryPeopleInformation#0;class#DAO#0" expanded="true" />
+            <element signature="method#queryPeopleInformation#1;class#DAO#0" expanded="true" />
+            <element signature="method#getPeopleInformation#0;class#DAO#0" expanded="true" />
+            <marker date="1526203439113" expanded="true" signature="517:760" ph="insert into people_information... " />
+            <marker date="1526203439113" expanded="true" signature="1959:2156" ph="update mydatabase.people_information... " />
+            <marker date="1526203439113" expanded="true" signature="3293:3366" ph="delete from mydatabase.people_information... " />
+            <marker date="1526203439113" expanded="true" signature="3972:4031" ph="select userN... people_information" />
+            <marker date="1526203439113" expanded="true" signature="7094:7168" ph="select * fro... people_information" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/08171c78-d3b3-457b-ad4d-419587b769c8/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wuchangi/Control_Layer/Control.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#get#0;class#Control#0" expanded="true" />
+            <element signature="method#add#0;class#Control#0" expanded="true" />
+            <element signature="method#update#0;class#Control#0" expanded="true" />
+            <element signature="method#del#0;class#Control#0" expanded="true" />
+            <element signature="method#query#0;class#Control#0" expanded="true" />
+            <element signature="method#query#1;class#Control#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wuchangi/Model_Layer/JDBC_Connection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="initializer##0;class#JDBC_Connection#0" expanded="true" />
+            <element signature="e#1126#1127#0" expanded="true" />
+            <element signature="e#1159#1160#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wuchangi/Model_Layer/PeopleInformation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="24" />
+          <folding>
+            <element signature="e#790#791#0" expanded="true" />
+            <element signature="e#815#816#0" expanded="true" />
+            <element signature="e#856#857#0" expanded="true" />
+            <element signature="e#884#885#0" expanded="true" />
+            <element signature="e#923#924#0" expanded="true" />
+            <element signature="e#954#955#0" expanded="true" />
+            <element signature="e#1006#1007#0" expanded="true" />
+            <element signature="e#1046#1047#0" expanded="true" />
+            <element signature="e#1081#1082#0" expanded="true" />
+            <element signature="e#1107#1108#0" expanded="true" />
+            <element signature="e#1150#1151#0" expanded="true" />
+            <element signature="e#1180#1181#0" expanded="true" />
+            <element signature="e#1215#1216#0" expanded="true" />
+            <element signature="e#1241#1242#0" expanded="true" />
+            <element signature="e#1284#1285#0" expanded="true" />
+            <element signature="e#1314#1315#0" expanded="true" />
+            <element signature="e#1351#1352#0" expanded="true" />
+            <element signature="e#1382#1383#0" expanded="true" />
+            <element signature="e#1432#1433#0" expanded="true" />
+            <element signature="e#1472#1473#0" expanded="true" />
+            <element signature="e#1508#1509#0" expanded="true" />
+            <element signature="e#1536#1537#0" expanded="true" />
+            <element signature="e#1582#1583#0" expanded="true" />
+            <element signature="e#1616#1617#0" expanded="true" />
+            <element signature="e#1653#1654#0" expanded="true" />
+            <element signature="e#1682#1683#0" expanded="true" />
+            <element signature="e#1730#1731#0" expanded="true" />
+            <element signature="e#1766#1767#0" expanded="true" />
+            <element signature="e#1807#1808#0" expanded="true" />
+            <element signature="e#1840#1841#0" expanded="true" />
+            <element signature="e#1896#1897#0" expanded="true" />
+            <element signature="e#1940#1941#0" expanded="true" />
+            <element signature="e#1981#1982#0" expanded="true" />
+            <element signature="e#2014#2015#0" expanded="true" />
+            <element signature="e#2070#2071#0" expanded="true" />
+            <element signature="e#2114#2115#0" expanded="true" />
+            <element signature="e#2153#2154#0" expanded="true" />
+            <element signature="e#2186#2187#0" expanded="true" />
+            <element signature="e#2240#2241#0" expanded="true" />
+            <element signature="e#2284#2285#0" expanded="true" />
+            <element signature="e#2323#2324#0" expanded="true" />
+            <element signature="e#2356#2357#0" expanded="true" />
+            <element signature="e#2410#2411#0" expanded="true" />
+            <element signature="e#2454#2455#0" expanded="true" />
+            <element signature="e#2491#2492#0" expanded="true" />
+            <element signature="e#2519#2520#0" expanded="true" />
+            <element signature="e#2566#2567#0" expanded="true" />
+            <element signature="e#2600#2601#0" expanded="true" />
+            <element signature="method#toString#0;class#PeopleInformation#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wuchangi/Model_Layer/DAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="56" column="14" lean-forward="false" selection-start-line="56" selection-start-column="14" selection-end-line="56" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#addPeopleInformation#0;class#DAO#0" expanded="true" />
+            <element signature="method#updatePeopleInformation#0;class#DAO#0" expanded="true" />
+            <element signature="method#deletePeopleInformation#0;class#DAO#0" expanded="true" />
+            <element signature="method#queryPeopleInformation#0;class#DAO#0" expanded="true" />
+            <element signature="method#queryPeopleInformation#1;class#DAO#0" expanded="true" />
+            <element signature="method#getPeopleInformation#0;class#DAO#0" expanded="true" />
+            <marker date="1526203439113" expanded="true" signature="517:760" ph="insert into people_information... " />
+            <marker date="1526203439113" expanded="true" signature="1959:2156" ph="update mydatabase.people_information... " />
+            <marker date="1526203439113" expanded="true" signature="3293:3366" ph="delete from mydatabase.people_information... " />
+            <marker date="1526203439113" expanded="true" signature="3972:4031" ph="select userN... people_information" />
+            <marker date="1526203439113" expanded="true" signature="7094:7168" ph="select * fro... people_information" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/08171c78-d3b3-457b-ad4d-419587b769c8/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wuchangi/Control_Layer/Control.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#get#0;class#Control#0" expanded="true" />
+            <element signature="method#add#0;class#Control#0" expanded="true" />
+            <element signature="method#update#0;class#Control#0" expanded="true" />
+            <element signature="method#del#0;class#Control#0" expanded="true" />
+            <element signature="method#query#0;class#Control#0" expanded="true" />
+            <element signature="method#query#1;class#Control#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wuchangi/Model_Layer/JDBC_Connection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="initializer##0;class#JDBC_Connection#0" expanded="true" />
+            <element signature="e#1126#1127#0" expanded="true" />
+            <element signature="e#1159#1160#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/08171c78-d3b3-457b-ad4d-419587b769c8/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wuchangi/Model_Layer/JDBC_Connection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="initializer##0;class#JDBC_Connection#0" expanded="true" />
+            <element signature="e#1126#1127#0" expanded="true" />
+            <element signature="e#1159#1160#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/08171c78-d3b3-457b-ad4d-419587b769c8/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wuchangi/Model_Layer/JDBC_Connection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="initializer##0;class#JDBC_Connection#0" expanded="true" />
+            <element signature="e#1126#1127#0" expanded="true" />
+            <element signature="e#1159#1160#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/8974485c-0ef8-479b-a3f0-a47368327cad/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/e77fda57-d0c8-453b-9ff8-5bbe2d621926/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wuchangi/Model_Layer/JDBC_Connection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="initializer##0;class#JDBC_Connection#0" expanded="true" />
+            <element signature="e#1126#1127#0" expanded="true" />
+            <element signature="e#1159#1160#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/e77fda57-d0c8-453b-9ff8-5bbe2d621926/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wuchangi/Model_Layer/JDBC_Connection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="initializer##0;class#JDBC_Connection#0" expanded="true" />
+            <element signature="e#1126#1127#0" expanded="true" />
+            <element signature="e#1159#1160#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/e77fda57-d0c8-453b-9ff8-5bbe2d621926/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wuchangi/Model_Layer/JDBC_Connection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="17" lean-forward="false" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+          <folding>
+            <element signature="initializer##0;class#JDBC_Connection#0" expanded="true" />
+            <element signature="e#1126#1127#0" expanded="true" />
+            <element signature="e#1159#1160#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/e77fda57-d0c8-453b-9ff8-5bbe2d621926/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JDBC_Testing.java" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/a2c75df7-eca8-4b98-aaa8-ee30c15325cf/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/8974485c-0ef8-479b-a3f0-a47368327cad/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/08171c78-d3b3-457b-ad4d-419587b769c8/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wuchangi/control_level.java" />
+    <entry file="jar://E:/Apache-Tomcat/tomcat-8.5.29/lib/mysql-connector-java-8.0.11.jar!/com/mysql/cj/jdbc/ClientPreparedStatement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4170">
+          <caret line="281" column="0" lean-forward="false" selection-start-line="281" selection-start-column="0" selection-end-line="281" selection-end-column="0" />
+          <folding>
+            <marker date="1521932446000" expanded="false" signature="3:117" ph="/.../" />
+            <marker date="1521932446000" expanded="false" signature="1018:1041" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="1274:1297" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="1330:1353" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="1487:1510" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="1663:1686" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="1879:1902" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="1964:1987" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="2028:2051" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="2109:2132" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="2210:2233" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="2300:2323" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="2421:2444" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="2504:2527" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="2592:2615" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="2697:2720" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="2780:2803" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="2878:2901" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="3008:3031" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="3201:3224" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="3331:3354" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="3446:3469" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="3560:3583" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="3900:3923" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="3999:4022" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="4084:4107" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="4242:4265" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="4400:4423" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="4483:4506" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="4677:4700" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="4789:4812" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="4904:4927" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="5048:5071" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="5154:5177" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="5246:5269" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="5361:5384" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="5435:5458" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="5532:5555" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="5628:5651" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="5760:5783" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="5830:5853" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="5916:5939" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="6007:6030" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="6131:6154" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="6200:6223" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="6327:6350" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="6443:6466" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="6547:6570" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="6675:6698" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="6815:6838" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="6956:6979" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="7084:7107" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="7213:7236" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="7354:7377" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="7496:7519" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="7598:7621" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="7729:7752" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="7873:7896" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="7985:8008" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="8091:8114" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="8200:8223" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="8363:8386" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="8495:8518" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="8635:8658" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="8767:8790" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="8911:8934" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="9056:9079" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="9177:9200" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="9311:9334" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="9413:9436" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="9528:9551" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="9667:9690" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="9777:9800" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="9885:9908" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="9989:10012" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="10095:10118" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="10223:10246" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="10355:10378" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="10501:10524" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="10623:10646" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="10758:10781" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="10879:10902" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="11000:11023" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="11111:11134" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="11249:11272" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="11381:11404" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="11512:11535" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="11662:11685" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="11825:11848" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="11986:12009" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="12157:12180" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="12257:12280" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="12374:12397" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="12482:12505" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="12609:12632" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="12729:12752" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="12844:12867" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="12983:13006" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="13108:13131" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="13257:13280" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="13286:13316" ph="/**...*/" />
+            <marker date="1521932446000" expanded="false" signature="13460:13483" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="13575:13598" ph="{}" />
+            <marker date="1521932446000" expanded="true" signature="13691:16857" ph="{...}" />
+            <marker date="1521932446000" expanded="false" signature="13908:13931" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="14021:14044" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="14145:14168" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="14269:14292" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="14394:14417" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="14505:14528" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="14613:14636" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="14715:14738" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="14820:14843" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="14943:14966" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="15054:15077" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="15165:15188" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="15271:15294" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="15375:15398" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="15475:15498" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="15599:15622" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="15701:15724" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="15825:15848" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="15938:15961" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="16054:16077" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="16163:16186" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="16267:16290" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="16383:16406" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="16494:16517" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="16615:16638" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="16724:16747" ph="{}" />
+            <marker date="1521932446000" expanded="false" signature="16828:16851" ph="{}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/com/sun/org/apache/bcel/internal/generic/DDIV.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="67" column="13" lean-forward="false" selection-start-line="67" selection-start-column="13" selection-end-line="67" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wuchangi/just_test/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/wuchangi/A.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/text/DateFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1110">
+          <caret line="365" column="0" lean-forward="false" selection-start-line="365" selection-start-column="0" selection-end-line="365" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wuchangi/Model_Layer/DAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#addPeopleInformation#0;class#DAO#0" expanded="true" />
+            <element signature="method#updatePeopleInformation#0;class#DAO#0" expanded="true" />
+            <element signature="method#deletePeopleInformation#0;class#DAO#0" expanded="true" />
+            <element signature="method#queryPeopleInformation#0;class#DAO#0" expanded="true" />
+            <element signature="method#queryPeopleInformation#1;class#DAO#0" expanded="true" />
+            <element signature="method#getPeopleInformation#0;class#DAO#0" expanded="true" />
+            <marker date="1526203439113" expanded="true" signature="517:760" ph="insert into people_information... " />
+            <marker date="1526203439113" expanded="true" signature="1959:2156" ph="update mydatabase.people_information... " />
+            <marker date="1526203439113" expanded="true" signature="3293:3366" ph="delete from mydatabase.people_information... " />
+            <marker date="1526203439113" expanded="true" signature="3972:4031" ph="select userN... people_information" />
+            <marker date="1526203439113" expanded="true" signature="7094:7168" ph="select * fro... people_information" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wuchangi/Control_Layer/Control.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#get#0;class#Control#0" expanded="true" />
+            <element signature="method#add#0;class#Control#0" expanded="true" />
+            <element signature="method#update#0;class#Control#0" expanded="true" />
+            <element signature="method#del#0;class#Control#0" expanded="true" />
+            <element signature="method#query#0;class#Control#0" expanded="true" />
+            <element signature="method#query#1;class#Control#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wuchangi/Model_Layer/JDBC_Connection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="11" column="28" lean-forward="false" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+          <folding>
+            <element signature="initializer##0;class#JDBC_Connection#0" expanded="true" />
+            <element signature="e#1126#1127#0" expanded="true" />
+            <element signature="e#1159#1160#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wuchangi/Model_Layer/PeopleInformation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="e#790#791#0" expanded="true" />
+            <element signature="e#815#816#0" expanded="true" />
+            <element signature="e#856#857#0" expanded="true" />
+            <element signature="e#884#885#0" expanded="true" />
+            <element signature="e#923#924#0" expanded="true" />
+            <element signature="e#954#955#0" expanded="true" />
+            <element signature="e#1006#1007#0" expanded="true" />
+            <element signature="e#1046#1047#0" expanded="true" />
+            <element signature="e#1081#1082#0" expanded="true" />
+            <element signature="e#1107#1108#0" expanded="true" />
+            <element signature="e#1150#1151#0" expanded="true" />
+            <element signature="e#1180#1181#0" expanded="true" />
+            <element signature="e#1215#1216#0" expanded="true" />
+            <element signature="e#1241#1242#0" expanded="true" />
+            <element signature="e#1284#1285#0" expanded="true" />
+            <element signature="e#1314#1315#0" expanded="true" />
+            <element signature="e#1351#1352#0" expanded="true" />
+            <element signature="e#1382#1383#0" expanded="true" />
+            <element signature="e#1432#1433#0" expanded="true" />
+            <element signature="e#1472#1473#0" expanded="true" />
+            <element signature="e#1508#1509#0" expanded="true" />
+            <element signature="e#1536#1537#0" expanded="true" />
+            <element signature="e#1582#1583#0" expanded="true" />
+            <element signature="e#1616#1617#0" expanded="true" />
+            <element signature="e#1653#1654#0" expanded="true" />
+            <element signature="e#1682#1683#0" expanded="true" />
+            <element signature="e#1730#1731#0" expanded="true" />
+            <element signature="e#1766#1767#0" expanded="true" />
+            <element signature="e#1807#1808#0" expanded="true" />
+            <element signature="e#1840#1841#0" expanded="true" />
+            <element signature="e#1896#1897#0" expanded="true" />
+            <element signature="e#1940#1941#0" expanded="true" />
+            <element signature="e#1981#1982#0" expanded="true" />
+            <element signature="e#2014#2015#0" expanded="true" />
+            <element signature="e#2070#2071#0" expanded="true" />
+            <element signature="e#2114#2115#0" expanded="true" />
+            <element signature="e#2153#2154#0" expanded="true" />
+            <element signature="e#2186#2187#0" expanded="true" />
+            <element signature="e#2240#2241#0" expanded="true" />
+            <element signature="e#2284#2285#0" expanded="true" />
+            <element signature="e#2323#2324#0" expanded="true" />
+            <element signature="e#2356#2357#0" expanded="true" />
+            <element signature="e#2410#2411#0" expanded="true" />
+            <element signature="e#2454#2455#0" expanded="true" />
+            <element signature="e#2491#2492#0" expanded="true" />
+            <element signature="e#2519#2520#0" expanded="true" />
+            <element signature="e#2566#2567#0" expanded="true" />
+            <element signature="e#2600#2601#0" expanded="true" />
+            <element signature="method#toString#0;class#PeopleInformation#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wuchangi/View_Layer/View.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#main#0;class#View#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>Android API 21 Platform</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>JDBC_Test</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
